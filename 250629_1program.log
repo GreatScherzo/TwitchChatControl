@@ -1,0 +1,202 @@
+2025-06-28 23:12:23,801 - root - INFO - Config loaded
+2025-06-28 23:12:25,894 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:15:17,634 - root - INFO - Config loaded
+2025-06-28 23:15:19,092 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:20:45,132 - root - INFO - Config loaded
+2025-06-28 23:20:51,795 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:26:22,738 - root - INFO - Config loaded
+2025-06-28 23:26:29,684 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:46:42,844 - root - INFO - Config loaded
+2025-06-28 23:46:49,458 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:48:34,700 - root - INFO - Config loaded
+2025-06-28 23:48:41,640 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:50:08,631 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-28 23:52:17,623 - root - INFO - Config loaded
+2025-06-28 23:52:24,327 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:54:54,913 - root - INFO - Config loaded
+2025-06-28 23:55:01,892 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:56:41,868 - root - INFO - Config loaded
+2025-06-28 23:56:48,685 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-28 23:57:33,513 - root - INFO - Config loaded
+2025-06-28 23:57:40,353 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 00:08:47,246 - root - INFO - Config loaded
+2025-06-29 00:10:24,110 - root - INFO - Config loaded
+2025-06-29 00:10:30,519 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 00:10:57,738 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 00:12:25,486 - root - INFO - Config loaded
+2025-06-29 00:12:32,343 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 00:13:44,083 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 00:18:59,126 - root - INFO - Config loaded
+2025-06-29 00:19:06,072 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 00:19:32,127 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 00:19:44,665 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 00:19:51,392 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-29 00:19:51,393 - twitch_handler.twitch_handler - ERROR - (1400, 'SetForegroundWindow', 'Invalid window handle.')
+Traceback (most recent call last):
+  File "C:\Repo\TwitchChatControl\TwitchChatControl\twitch_handler\twitch_handler.py", line 60, in set_focus_window_to_emulator
+    win32gui.SetForegroundWindow(window_handle)
+pywintypes.error: (1400, 'SetForegroundWindow', 'Invalid window handle.')
+2025-06-29 00:20:26,425 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 00:20:26,704 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 00:20:26,704 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 1.7345023382853062 seconds.
+2025-06-29 00:20:28,455 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 1.8358037829628326 seconds.
+2025-06-29 00:20:30,302 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 6.049598788591132 seconds.
+2025-06-29 00:20:36,352 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 12.218852652963514 seconds.
+2025-06-29 00:20:48,567 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 12.033561657384613 seconds.
+2025-06-29 00:21:00,601 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 24.723590960635278 seconds.
+2025-06-29 00:21:25,330 - twitchio.websocket - ERROR - Websocket connection failure: Session is closed:: Attempting reconnect in 43.732704531284426 seconds.
+2025-06-29 03:32:07,476 - root - INFO - Config loaded
+2025-06-29 03:32:14,305 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:35:47,984 - root - INFO - Config loaded
+2025-06-29 03:35:54,800 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:36:13,027 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 03:36:23,036 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 03:36:23,036 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 03:36:23,037 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 03:36:23,037 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 03:36:24,835 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:40:36,264 - root - INFO - Config loaded
+2025-06-29 03:40:43,230 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:41:01,299 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 03:41:11,330 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 03:41:11,330 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 03:41:11,331 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 03:41:11,331 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 03:41:13,245 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:42:47,839 - root - INFO - Config loaded
+2025-06-29 03:42:54,464 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:43:12,873 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 03:43:22,885 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 03:43:22,886 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 03:43:22,886 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 03:43:22,887 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 03:43:24,656 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:44:34,872 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-29 03:52:25,589 - root - INFO - Config loaded
+2025-06-29 03:52:32,237 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:52:50,614 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 03:53:00,617 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 03:53:00,618 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 03:53:00,618 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 03:53:00,619 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 03:53:02,588 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:54:36,988 - root - INFO - Config loaded
+2025-06-29 03:54:43,413 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 03:55:02,016 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:55:22,021 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:55:42,036 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:55:43,482 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-29 03:56:02,053 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:56:06,518 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-29 03:56:22,059 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:56:42,068 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:57:02,081 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:57:22,090 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:57:42,105 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:58:02,118 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:58:22,116 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:58:42,120 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:59:02,114 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:59:22,120 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 03:59:42,123 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:00:02,136 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:00:22,132 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:00:42,132 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:01:02,132 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:01:22,143 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:01:42,155 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:02:02,182 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:02:22,184 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:02:42,203 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:03:02,220 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:03:22,236 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:03:42,250 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:04:02,270 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:04:22,286 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:04:42,301 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:05:02,308 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:05:22,310 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:05:42,324 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:06:02,317 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:06:22,332 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:06:42,347 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:07:02,366 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:07:22,383 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:07:42,391 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:08:02,415 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 04:08:02,415 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-29 04:08:22,416 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:08:42,419 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:09:02,432 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:09:22,432 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:09:42,442 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:10:02,445 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:10:22,453 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:10:42,469 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:11:02,485 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:11:22,499 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:11:42,508 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:12:02,521 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:12:22,534 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:12:42,556 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:13:02,564 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:13:22,579 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:13:42,598 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:14:02,595 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:14:22,608 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:14:42,620 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:15:02,623 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:15:22,642 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:15:42,647 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:16:02,651 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:16:22,641 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:16:42,655 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:17:02,662 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:17:22,656 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:17:42,662 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:18:02,665 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:18:22,653 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:18:42,729 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:19:02,735 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:19:22,744 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:19:42,736 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:20:02,743 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:20:22,748 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:20:42,766 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:21:02,778 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:21:22,798 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:21:42,817 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:22:02,825 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:22:22,841 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:22:42,860 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 04:22:52,871 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 04:22:52,872 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 04:22:52,872 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 04:22:52,872 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 04:22:54,604 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 08:53:58,691 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-29 08:55:26,236 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-29 08:57:41,468 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-29 10:18:55,832 - root - INFO - Config loaded
+2025-06-29 10:19:06,348 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 10:19:20,884 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 10:19:30,909 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 10:19:30,911 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 10:19:30,912 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 10:19:30,913 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 10:19:30,914 - twitch_handler.twitch_handler - INFO - Bot was able to revive itself
+2025-06-29 10:19:33,829 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 10:20:00,934 - twitch_handler.twitch_handler - INFO - TwitchBot went to see if first official live status is recorded
+2025-06-29 10:32:44,596 - root - INFO - Config loaded
+2025-06-29 10:32:53,578 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 10:34:44,842 - root - INFO - Config loaded
+2025-06-29 10:34:53,862 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 10:35:49,858 - twitch_handler.twitch_handler - INFO - TwitchBot went to check if stream needed restarting
+2025-06-29 10:35:59,883 - twitch_handler.twitch_handler - INFO - OBS successfully restarted
+2025-06-29 10:35:59,884 - twitch_handler.twitch_handler - INFO - Atttempting to restart bot
+2025-06-29 10:35:59,885 - twitch_handler.twitch_handler - INFO - Bot succesfully closed
+2025-06-29 10:35:59,885 - twitch_handler.twitch_handler - INFO - Bot ready to commit suicide
+2025-06-29 10:35:59,887 - twitch_handler.twitch_handler - INFO - Bot was able to revive itself
+2025-06-29 10:36:03,648 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-29 10:36:58,146 - root - INFO - Config loaded
+2025-06-29 10:37:07,523 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff

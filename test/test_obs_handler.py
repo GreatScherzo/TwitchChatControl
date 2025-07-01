@@ -18,7 +18,7 @@ class TestOBShandler(unittest.TestCase):
         expected = None
         # actual = self.test_class.call_obs()
         # Remember not to make the function to test callable!
-        self.assertRaises(FileNotFoundError, self.test_class._call_obs)
+        self.assertRaises(FileNotFoundError, self.test_class._launch_obs)
 
     def tearDown(self):
         """
