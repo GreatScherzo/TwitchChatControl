@@ -1,0 +1,1792 @@
+2025-06-22 18:52:12,359 - root - INFO - Config loaded
+2025-06-22 18:52:23,063 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-22 18:52:27,376 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 18:52:37,372 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 18:52:47,376 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 18:52:57,927 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 19:02:01,511 - root - INFO - Config loaded
+2025-06-22 19:02:12,283 - root - INFO - Config loaded
+2025-06-22 19:02:23,130 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-22 19:02:27,781 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:41:55,186 - root - INFO - Config loaded
+2025-06-22 20:42:05,131 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-22 20:42:10,209 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:42:20,636 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:42:31,091 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:42:41,099 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:42:51,247 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:43:02,443 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:43:13,049 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:43:24,038 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:43:35,234 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:43:46,753 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:43:56,757 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:44:07,232 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:44:18,429 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:44:28,447 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:44:38,916 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:44:48,928 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:44:58,940 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:45:09,307 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:45:19,814 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:45:29,820 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:45:40,675 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:45:52,186 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:46:03,377 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:46:14,574 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:52:38,071 - root - INFO - Config loaded
+2025-06-22 20:52:48,589 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-22 20:52:53,781 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:53:04,390 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:53:14,649 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:53:24,668 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:53:34,790 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:53:45,306 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:53:55,318 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:05,319 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:15,332 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:19,676 - twitch_handler.twitch_handler - INFO - Moved Right
+2025-06-22 20:54:25,331 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:35,325 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:45,326 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:51,844 - twitch_handler.twitch_handler - INFO - Moved Right
+2025-06-22 20:54:55,394 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:54:57,674 - twitch_handler.twitch_handler - INFO - Moved Left
+2025-06-22 20:55:05,400 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:55:15,398 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:55:25,412 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:55:35,697 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:55:44,376 - twitch_handler.twitch_handler - INFO - Long Pressed Left
+2025-06-22 20:55:45,712 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:55:56,019 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:56:06,018 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:56:16,022 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:56:26,698 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:56:36,701 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:56:46,705 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:56:57,126 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:07,133 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:07,133 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:57:17,154 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:17,154 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:57:27,156 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:27,156 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:57:37,397 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:37,397 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:57:47,424 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:47,424 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:57:58,203 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:57:58,203 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:58:09,109 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:58:09,110 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:58:19,121 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:58:19,121 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:58:29,133 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:58:29,133 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:58:39,154 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:58:39,154 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:58:49,259 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:58:49,259 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:58:59,272 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:58:59,272 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:59:09,281 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:59:09,281 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:59:19,279 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:59:19,279 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:59:29,597 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:59:29,598 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:59:39,760 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:59:39,760 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 20:59:49,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 20:59:49,892 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:00:00,381 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:00:00,381 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:00:10,390 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:00:10,390 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:00:21,024 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:00:21,025 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:00:31,046 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:00:31,046 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:00:41,062 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:00:41,062 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:00:51,067 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:00:51,067 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:01:01,076 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:01:01,076 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:01:11,073 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:01:11,073 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:01:21,087 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:01:21,087 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:01:31,572 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:01:31,572 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:01:42,210 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:01:42,210 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:01:52,395 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:01:52,396 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:02:02,386 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:02:02,387 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:02:12,827 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:02:12,827 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:02:23,025 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:02:23,025 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:02:33,076 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:02:33,076 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:02:43,086 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:02:43,086 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:02:53,108 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:02:53,108 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:03:03,483 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:03:03,483 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:03:13,479 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:03:13,479 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:03:23,504 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:03:23,504 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:03:33,513 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:03:33,513 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:03:43,516 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:03:43,516 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:03:53,524 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:03:53,524 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:04:03,949 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:04:03,949 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:04:13,952 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:04:13,952 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:04:23,967 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:04:23,967 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:04:33,971 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:04:33,971 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:04:43,982 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:04:43,982 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:04:54,843 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:04:54,843 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:05:04,920 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:05:04,920 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:05:14,930 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:05:14,930 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:05:25,757 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:05:25,757 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:05:35,769 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:05:35,769 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:05:45,767 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:05:45,767 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:05:55,782 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:05:55,782 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:06:06,191 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:06:06,191 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:06:16,184 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:06:16,184 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:06:26,193 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:06:26,193 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:06:36,189 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:06:36,189 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:06:46,832 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:06:46,832 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:06:56,827 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:06:56,827 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:07:06,841 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:07:06,841 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:07:17,077 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:07:17,077 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:07:27,091 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:07:27,091 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:07:37,104 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:07:37,104 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:07:47,184 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:07:47,184 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:07:57,195 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:07:57,195 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:08:07,488 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:08:07,488 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:08:18,184 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:08:18,184 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:08:28,694 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:08:28,694 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:08:38,712 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:08:38,712 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:08:48,728 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:08:48,728 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:08:58,731 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:08:58,731 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:09:08,735 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:09:08,735 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:09:19,298 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:09:19,298 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:09:29,305 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:09:29,305 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:09:39,608 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:09:39,609 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:09:49,605 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:09:49,605 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:09:59,621 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:09:59,621 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:10:09,645 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:10:09,645 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:10:19,642 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:10:19,642 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:10:30,340 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:10:30,340 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:10:40,419 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:10:40,419 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-22 21:10:50,414 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-22 21:10:50,414 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-23 06:22:11,578 - root - INFO - Config loaded
+2025-06-23 06:22:18,875 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-23 06:22:26,625 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:22:36,641 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:22:46,645 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:22:56,667 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:23:06,690 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:23:16,706 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:23:26,718 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:23:36,748 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:23:46,761 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:23:56,767 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:24:06,771 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:24:16,794 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:24:26,933 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:26:23,018 - root - INFO - Config loaded
+2025-06-23 06:26:30,218 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-23 06:26:38,047 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:26:48,054 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:26:58,059 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:27:08,081 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:27:18,093 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:27:28,099 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:27:38,095 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:27:48,347 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:27:58,362 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:28:08,371 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:28:18,368 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:28:28,374 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:28:38,377 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:28:48,385 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:28:58,395 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:29:08,414 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:29:18,433 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:29:28,434 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:29:38,432 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:29:48,586 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:29:58,595 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:30:08,598 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:30:18,591 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:30:28,600 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:30:38,658 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:30:48,666 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:30:58,675 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:31:08,683 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:31:18,693 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:31:28,719 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:31:38,715 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:31:48,723 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:31:58,731 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:32:08,778 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:32:18,792 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:32:28,788 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:32:38,790 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:32:48,783 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:32:58,807 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:33:08,810 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:33:18,814 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:33:28,818 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:33:38,825 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:33:48,829 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:33:58,839 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:34:08,855 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:34:18,859 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:34:29,003 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:34:39,011 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:34:49,030 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:34:59,038 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:35:09,045 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:35:19,044 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:35:29,066 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:35:39,068 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:35:49,076 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:35:59,085 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:36:09,088 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:36:19,092 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:36:29,095 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:36:39,095 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:36:49,109 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:36:59,116 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:37:09,126 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:37:19,360 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:37:19,360 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-23 06:37:29,372 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:37:39,375 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:37:49,384 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:37:59,389 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:38:09,383 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:38:19,388 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:38:29,463 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:38:39,466 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:38:49,481 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:38:59,489 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:39:09,483 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:39:19,489 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:39:29,483 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:39:39,487 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:39:49,485 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:39:59,512 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:40:09,518 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:40:19,536 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:40:29,542 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:40:39,544 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:40:49,563 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:40:59,571 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:41:09,573 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:41:19,619 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:41:29,633 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:41:39,643 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:41:49,652 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:41:59,657 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:42:09,661 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:42:19,734 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:42:29,751 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:42:39,764 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:42:49,768 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:42:59,950 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:43:09,950 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:43:19,954 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:43:30,157 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:43:40,163 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:43:50,185 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:44:00,190 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:44:10,196 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:44:20,202 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:44:30,200 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:44:40,211 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:44:50,225 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:45:00,233 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:45:10,237 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:45:20,252 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:45:30,270 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:45:40,273 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:45:50,289 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:46:00,304 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:46:10,314 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:46:20,317 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:46:30,319 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:46:40,318 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:46:50,319 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:47:00,330 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:47:10,343 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:47:20,358 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:47:30,367 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:47:40,411 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:47:50,427 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:48:00,432 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:48:10,432 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:48:20,444 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:48:30,453 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:48:40,659 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:48:50,683 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:49:00,681 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:49:10,684 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:49:20,690 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:49:30,715 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:49:40,728 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:49:50,722 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:50:00,751 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:50:10,761 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:50:20,764 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:50:30,768 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:50:40,762 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:50:50,783 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:51:00,793 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:51:10,993 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:51:21,039 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:51:31,050 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:51:41,051 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:51:51,058 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:52:01,065 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:52:11,059 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:52:21,072 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:52:31,084 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:52:41,086 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:52:51,327 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:53:01,333 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:53:11,340 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:53:21,353 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:53:31,361 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:53:41,365 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:53:51,365 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:54:01,383 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:54:11,391 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:54:21,394 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:54:31,513 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:54:41,539 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:54:51,559 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:55:01,560 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:55:11,569 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:55:21,614 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:55:31,626 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:55:41,641 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:55:51,768 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:56:01,776 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:56:11,784 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:56:21,807 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:56:31,827 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:56:41,832 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:56:51,879 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:57:01,902 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:57:11,910 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:57:21,916 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:57:31,917 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:57:41,929 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:57:51,933 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:58:01,936 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:58:12,030 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:58:22,032 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:58:32,046 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:58:42,059 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:58:52,105 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:59:02,112 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:59:12,117 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:59:22,122 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:59:32,129 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:59:42,140 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 06:59:52,202 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:00:02,213 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:00:12,221 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:00:22,223 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:00:32,228 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:00:42,312 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:00:52,311 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:01:02,323 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:01:12,526 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:01:22,520 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:01:32,538 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:01:42,541 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:01:52,716 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:02:02,712 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:02:12,715 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:02:22,717 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:02:32,887 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:02:42,889 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:02:52,894 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:03:02,909 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:03:12,921 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:03:22,924 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:03:32,940 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:03:42,950 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:03:53,106 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:04:03,115 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:04:13,130 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:04:23,149 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:04:33,155 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:04:43,160 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:04:53,169 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:05:03,167 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:05:13,171 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:05:23,166 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:05:33,176 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:05:43,182 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:05:53,204 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:06:03,346 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:06:13,354 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:06:23,368 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:06:33,388 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:06:43,466 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:06:53,463 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:07:03,472 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:07:13,467 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:07:23,482 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:07:43,517 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:08:03,546 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:08:23,731 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:08:43,917 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:09:03,936 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:09:23,964 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:09:44,133 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:10:04,157 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:10:24,156 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:10:44,165 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:11:04,371 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:11:24,589 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:11:44,602 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:12:04,657 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:12:24,666 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:12:44,700 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:13:04,710 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:13:24,819 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:13:44,830 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:14:04,858 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:14:24,902 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:14:44,928 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:15:04,950 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:15:24,977 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:15:44,996 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:16:04,998 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:16:25,024 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:16:45,040 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:17:05,130 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:17:25,150 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:17:45,185 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:18:05,190 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:18:25,213 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:18:45,240 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:19:05,252 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:19:25,262 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:19:45,287 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:20:05,383 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:20:25,412 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:20:45,430 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:21:05,441 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:21:25,454 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:21:45,582 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:22:05,600 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:22:25,629 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:22:35,640 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:22:45,790 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:22:55,791 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:23:05,794 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:23:15,796 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:23:25,803 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:23:35,822 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:23:45,902 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:23:55,904 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:24:05,904 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:24:15,906 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:24:25,913 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:24:35,918 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:24:45,963 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:24:55,970 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:25:05,975 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:25:16,021 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:25:26,034 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:25:36,027 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:25:46,154 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:25:56,170 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:26:06,183 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:26:16,323 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:26:26,334 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:26:36,350 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:26:46,377 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:26:56,380 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:27:06,394 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:27:16,388 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:27:26,398 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:27:36,412 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:27:46,423 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:27:56,428 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:28:06,435 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:28:16,610 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:28:26,625 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:28:36,627 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:28:46,617 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:28:56,634 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:29:06,650 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:29:16,678 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:29:26,689 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:29:36,705 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:29:46,716 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:29:56,780 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:30:06,787 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:30:16,796 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:30:26,796 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:30:36,810 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:30:46,834 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:30:56,828 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:31:06,845 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:31:16,851 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:31:26,967 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:31:36,969 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:31:46,988 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:31:57,037 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:32:07,038 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:32:17,035 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:32:27,050 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:32:37,058 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:32:47,072 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:32:57,068 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:33:07,082 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:33:17,093 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:33:27,108 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:33:37,124 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:33:47,140 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:33:57,154 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:34:07,165 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:34:17,170 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:34:27,186 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:34:37,203 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:34:47,211 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:34:57,222 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:35:07,235 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:35:34,164 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:36:03,771 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:36:23,813 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:36:33,823 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:36:43,821 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:36:53,841 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:37:03,834 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:37:13,849 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:37:23,858 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:37:43,878 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:38:03,910 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:38:23,999 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:38:44,037 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:39:04,062 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:39:24,100 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:39:44,286 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:40:04,352 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:40:24,386 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:40:44,460 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:41:04,480 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:41:24,490 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:41:44,637 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:42:04,661 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:42:24,669 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:42:44,678 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:43:04,689 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:43:24,715 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:43:44,729 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:44:04,889 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:44:24,909 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:44:44,919 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:45:04,944 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:45:24,961 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:45:44,991 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:46:05,004 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:46:25,029 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:46:45,060 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:47:05,097 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:47:25,120 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:47:45,139 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:48:05,168 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:48:25,298 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:48:45,308 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:49:05,329 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:49:25,363 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:49:45,380 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:50:05,402 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:50:25,410 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:50:45,418 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:51:05,560 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:51:25,589 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:51:45,623 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:52:05,651 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:52:25,702 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:52:35,713 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:52:45,730 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:52:55,726 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:53:05,804 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:53:15,820 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:53:25,825 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:53:35,821 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:53:45,889 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:53:55,914 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:54:05,928 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:54:15,970 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:54:25,971 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:54:36,128 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:54:46,132 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:54:56,138 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:55:06,151 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:55:16,158 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:55:26,184 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:55:36,485 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:55:46,500 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:55:56,529 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:56:06,621 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:56:16,625 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:56:26,636 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:56:36,755 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:56:46,766 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:56:56,791 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:57:06,787 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:57:16,800 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:57:26,949 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:57:36,942 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:57:46,952 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:57:56,954 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:58:07,087 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:58:17,089 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:58:27,094 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:58:37,093 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:58:47,099 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:58:57,120 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:59:07,124 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:59:17,134 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:59:27,145 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:59:37,283 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:59:47,284 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 07:59:57,307 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:00:07,304 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:00:17,306 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:00:27,316 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:00:37,322 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:00:47,331 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:00:57,350 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:01:07,357 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:01:17,354 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:01:27,360 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:01:37,360 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:01:47,461 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:01:57,463 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:02:07,470 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:02:17,471 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:02:27,478 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:02:37,488 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:02:47,494 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:02:57,505 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:03:07,717 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:03:17,717 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:03:27,730 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:03:37,898 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:03:47,910 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:03:58,068 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:04:08,085 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:04:18,088 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:04:28,100 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:04:38,115 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:04:48,122 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:04:58,133 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:05:08,153 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:05:18,174 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:05:28,190 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:05:38,197 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:05:48,212 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:05:58,210 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:06:08,289 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:06:18,310 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:06:28,325 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:06:38,479 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:06:48,482 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:06:58,492 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:07:08,720 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:07:18,711 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:07:28,719 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:07:48,738 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:08:08,774 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:08:28,807 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:08:48,920 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:09:08,957 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:09:28,968 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:09:48,994 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:10:09,019 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:10:29,035 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:10:49,044 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:11:09,066 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:11:29,080 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:11:49,112 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:12:09,241 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:12:29,255 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:12:49,281 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:13:09,320 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:13:29,363 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:13:49,386 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:14:09,402 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:14:29,442 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:14:49,453 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:15:09,463 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:15:29,478 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:15:49,659 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:16:09,682 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:16:29,713 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:16:49,730 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:17:09,741 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:17:29,753 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:17:49,783 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:18:09,812 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:18:29,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:18:49,922 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:19:09,948 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:19:29,952 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:19:49,960 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:20:10,014 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:20:30,022 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:20:50,109 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:21:10,310 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:21:30,342 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:21:50,517 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:22:10,547 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:22:30,567 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:22:50,590 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:23:10,601 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:23:30,762 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:23:50,770 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:24:10,776 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:24:30,799 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:24:50,801 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:25:10,817 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:25:30,831 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:25:50,866 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:26:10,873 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:26:30,878 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:26:50,909 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:27:10,927 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:27:30,941 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:27:50,964 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:28:10,980 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:28:31,001 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:28:51,010 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:29:11,113 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:29:31,248 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:29:51,275 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:30:11,441 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:30:31,584 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:30:51,638 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:31:11,761 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:31:31,792 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:31:51,819 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:32:11,823 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:32:31,843 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:32:51,860 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:33:11,890 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:33:31,919 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:33:51,944 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:34:11,980 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:34:32,015 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:34:52,041 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:35:12,067 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:35:32,063 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:35:52,178 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:36:12,212 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:36:32,229 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:36:52,262 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:37:12,260 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:37:32,279 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:37:42,258 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:37:52,255 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:38:02,272 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:38:12,268 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:38:22,299 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:38:32,300 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:38:42,300 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:38:52,300 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:39:02,295 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:39:12,297 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:39:22,299 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:39:32,307 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:39:42,375 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:39:52,381 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:40:02,391 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:40:12,402 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:40:22,411 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:40:32,579 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:40:42,587 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:40:52,814 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:41:02,819 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:41:12,819 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:41:22,836 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:41:32,848 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:41:42,973 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:41:52,973 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:42:03,001 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:42:13,014 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:42:23,020 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:42:33,018 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:42:43,014 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:42:53,014 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:43:03,168 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:43:13,169 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:43:23,169 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:43:33,187 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:43:43,197 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:43:53,286 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:44:03,297 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:44:13,308 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:44:23,388 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:44:33,399 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:44:43,404 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:44:53,400 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:45:03,404 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:45:13,412 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:45:23,432 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:45:33,563 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:45:43,572 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:45:53,577 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:46:03,579 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:46:13,785 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:46:23,783 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:46:33,987 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:46:43,998 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:46:54,006 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:47:04,034 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:47:14,033 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:47:24,033 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:47:34,036 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:47:44,034 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:47:54,042 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:48:04,109 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:48:14,121 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:48:24,136 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:48:34,148 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:48:44,170 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:48:54,185 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:49:04,342 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:49:14,347 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:49:24,353 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:49:34,478 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:49:44,485 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:49:54,501 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:50:04,506 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:50:14,507 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:50:24,528 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:50:34,540 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:50:44,547 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:50:54,550 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:51:04,553 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:51:14,551 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:51:24,564 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:51:34,563 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:51:44,579 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:51:54,587 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:52:04,723 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:52:14,728 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:52:24,749 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:52:34,764 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:52:44,902 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:52:54,922 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-23 08:53:04,923 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 07:53:56,687 - root - INFO - Config loaded
+2025-06-25 07:56:45,619 - root - INFO - Config loaded
+2025-06-25 07:57:15,854 - root - INFO - Config loaded
+2025-06-25 07:57:22,835 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-25 07:58:20,885 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 07:58:38,163 - twitch_handler.twitch_handler - INFO - Moved Right
+2025-06-25 07:58:47,384 - twitch_handler.twitch_handler - INFO - Moved Right
+2025-06-25 07:59:03,141 - twitch_handler.twitch_handler - INFO - Long Pressed Right
+2025-06-25 07:59:15,552 - twitch_handler.twitch_handler - INFO - Long Pressed Up
+2025-06-25 07:59:20,891 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:00:20,900 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:01:20,909 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:01:30,726 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-25 08:02:20,924 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:03:20,934 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:04:20,944 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:05:20,959 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:06:20,971 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:06:51,659 - twitch_handler.twitch_handler - INFO - Moved Down
+2025-06-25 08:07:06,649 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-25 08:07:20,992 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:07:29,234 - twitch_handler.twitch_handler - INFO - Moved Down
+2025-06-25 08:07:32,848 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-25 08:07:53,153 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-25 08:08:21,001 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:08:31,614 - twitch_handler.twitch_handler - INFO - Repeatfired A
+2025-06-25 08:08:41,338 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-25 08:08:56,758 - twitch_handler.twitch_handler - INFO - Repeatfired A
+2025-06-25 08:09:11,171 - twitch_handler.twitch_handler - INFO - Long Pressed Up
+2025-06-25 08:09:21,166 - twitch_handler.twitch_handler - INFO - Long Pressed Right
+2025-06-25 08:09:21,166 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:09:29,112 - twitch_handler.twitch_handler - INFO - Long Pressed Down
+2025-06-25 08:09:36,843 - twitch_handler.twitch_handler - INFO - Moved Right
+2025-06-25 08:09:42,409 - twitch_handler.twitch_handler - INFO - Moved Right
+2025-06-25 08:09:52,947 - twitch_handler.twitch_handler - INFO - Long Pressed Down
+2025-06-25 08:10:08,626 - twitch_handler.twitch_handler - INFO - Moved Down
+2025-06-25 08:10:18,154 - twitch_handler.twitch_handler - INFO - Long Pressed Down
+2025-06-25 08:10:21,176 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:10:33,338 - twitch_handler.twitch_handler - INFO - Long Pressed Left
+2025-06-25 08:11:21,191 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:12:21,208 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:13:21,210 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:14:21,226 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:14:21,226 - twitch_handler.twitch_handler - INFO - Stream is recorded to be officially live
+2025-06-25 08:15:21,235 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:16:21,252 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:17:21,266 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:18:21,269 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:19:21,287 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:20:21,307 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:21:21,317 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:22:21,333 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:23:21,341 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:24:21,355 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:25:21,366 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:26:21,367 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:27:21,382 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:28:21,391 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:28:31,411 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 08:29:31,418 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:30:31,416 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:31:31,423 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:32:31,439 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:33:31,462 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:34:31,470 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:35:31,482 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:36:31,490 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:37:31,499 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:38:31,491 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:39:31,494 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:40:31,494 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:41:31,492 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:42:31,505 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:43:31,516 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:43:41,536 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 08:44:41,548 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:45:41,553 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:46:41,569 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:47:41,581 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:48:41,593 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:49:41,614 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:50:41,624 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:51:41,621 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:52:41,627 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:53:41,637 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:54:41,639 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:55:41,632 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:56:41,629 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:57:41,635 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:58:41,648 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 08:58:51,662 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 08:59:51,667 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:00:51,663 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:01:51,672 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:02:51,678 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:03:51,692 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:04:51,700 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:05:51,693 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:06:51,704 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:07:51,709 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:08:51,728 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:09:51,739 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:10:51,750 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:11:51,763 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:12:51,753 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:13:51,765 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:14:01,774 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 09:15:01,779 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:16:01,772 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:17:01,777 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:18:01,769 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:19:01,780 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:20:01,792 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:21:01,788 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:22:01,799 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:23:01,814 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:24:01,824 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:25:01,818 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:26:01,821 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:26:32,943 - twitch_handler.twitch_handler - INFO - Pressed A
+2025-06-25 09:27:01,837 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:28:01,851 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:29:01,868 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:29:11,879 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 09:30:11,889 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:31:11,901 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:32:11,891 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:33:11,920 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:34:11,920 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:35:11,923 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:36:11,945 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:37:11,951 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:38:11,940 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:39:11,965 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:40:11,974 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:41:11,975 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:42:11,987 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:43:12,009 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:44:12,010 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:44:22,025 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 09:45:22,022 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:46:22,030 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:47:22,023 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:48:22,042 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:49:22,044 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:50:22,057 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:51:22,059 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:52:22,068 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:53:22,083 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:54:22,105 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:55:22,107 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:56:22,098 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:57:22,107 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:58:22,112 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:59:22,137 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 09:59:32,142 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 10:00:32,153 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:01:32,156 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:02:32,161 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:03:32,164 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:04:32,182 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:05:32,197 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:06:32,208 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:07:32,215 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:08:32,218 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:09:32,232 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:10:32,230 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:11:32,238 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:12:32,254 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:13:32,272 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:14:32,277 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:14:42,285 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 10:15:42,293 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:16:42,287 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:17:42,283 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:18:42,295 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:19:42,299 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:20:42,310 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:21:42,310 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:22:42,304 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:23:42,300 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:24:42,313 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:25:42,327 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:26:42,322 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:27:42,335 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:28:42,332 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:29:42,347 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:29:52,360 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 10:30:52,381 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:31:52,391 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:32:52,403 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:33:52,397 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:34:52,409 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:35:52,411 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:36:52,424 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:37:52,442 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:38:52,442 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:39:52,454 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:40:52,471 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:41:52,484 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:42:52,505 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:43:52,519 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:44:52,529 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:45:02,539 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 10:46:02,541 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:47:02,549 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:48:02,568 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:49:02,586 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:50:02,600 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:51:02,612 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:52:02,625 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:53:02,632 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:54:02,639 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:55:02,643 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:56:02,651 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:57:02,655 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:58:02,643 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 10:59:02,665 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:00:02,667 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:00:12,675 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 11:01:12,688 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:02:12,701 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:03:12,694 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:04:12,699 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:05:12,694 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:06:12,693 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:07:12,704 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:08:12,718 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:09:12,712 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:10:12,726 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:11:12,723 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:12:12,724 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:13:12,730 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:14:12,737 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:15:12,756 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:15:22,763 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 11:16:22,768 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:17:22,783 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:18:22,805 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:19:22,814 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:20:22,815 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:21:22,834 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:22:22,854 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:23:22,859 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:24:22,872 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:25:22,873 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:26:22,872 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:27:22,864 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:28:22,881 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:29:22,878 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:30:22,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:30:32,906 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 11:31:32,918 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:32:32,920 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:33:32,919 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:34:32,918 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:35:32,923 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:36:32,934 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:37:32,937 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:38:32,952 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:39:32,965 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:40:32,966 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:41:32,962 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:42:32,963 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:43:32,972 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:44:32,975 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:45:32,985 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:45:43,000 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 11:46:43,021 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:47:43,018 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:48:43,019 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:49:43,020 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:50:43,026 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:51:43,025 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:52:43,035 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:53:43,032 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:54:43,049 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:55:43,055 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:56:43,065 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:57:43,080 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:58:43,099 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 11:59:43,099 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:00:43,123 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:00:53,143 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 12:01:53,153 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:02:53,156 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:03:53,176 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:04:53,179 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:05:53,191 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:06:53,209 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:07:53,212 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:08:53,219 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:09:53,235 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:10:53,245 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:11:53,251 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:12:53,279 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:13:53,279 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:14:53,284 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:15:53,285 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:16:03,304 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 12:17:03,310 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:18:03,301 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:19:03,308 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:20:03,317 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:21:03,317 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:22:03,315 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:23:03,325 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:24:03,327 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:25:03,328 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:26:03,335 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:27:03,348 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:28:03,356 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:29:03,351 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:30:03,362 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:31:03,379 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:31:13,401 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 12:32:13,398 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:33:13,398 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:34:13,409 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:35:13,411 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:36:13,410 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:37:13,417 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:38:13,425 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:39:13,440 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:40:13,457 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:41:13,476 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:42:13,477 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:43:13,481 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:44:13,495 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:45:13,504 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:46:13,517 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:46:23,537 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 12:47:23,545 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:48:23,545 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:49:23,539 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:50:23,544 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:51:23,536 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:52:23,546 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:53:23,551 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:54:23,558 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:55:23,561 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:56:23,566 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:57:23,572 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:58:23,573 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 12:59:23,583 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:00:23,598 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:01:23,598 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:01:33,611 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:02:33,622 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:03:33,622 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:04:33,621 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:05:33,624 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:06:33,639 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:07:33,646 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:08:33,655 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:09:33,679 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:10:33,689 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:11:33,710 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:12:33,719 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:13:33,730 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:14:33,736 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:15:33,753 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:16:33,769 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:16:43,786 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:17:43,803 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:18:43,810 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:19:43,813 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:20:43,825 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:21:43,825 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:22:43,824 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:23:43,829 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:24:43,848 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:25:43,866 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:26:43,866 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:27:43,866 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:28:43,869 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:29:43,872 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:30:43,871 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:31:43,870 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:31:53,883 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:32:53,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:33:03,901 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:34:03,905 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:34:13,912 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:35:13,913 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:35:23,931 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:36:23,945 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:36:33,955 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:37:33,966 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:37:43,973 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:38:43,990 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:38:54,003 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:39:54,024 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:40:04,037 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:41:04,038 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:41:14,045 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:42:14,048 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:42:24,058 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:43:24,055 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:43:34,070 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:44:34,080 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:44:44,093 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:45:44,121 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:45:54,140 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:46:54,148 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:47:04,169 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 13:48:04,176 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:49:04,192 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:50:04,192 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:51:04,214 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:52:04,221 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:53:04,236 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:54:04,250 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:55:04,268 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:56:04,294 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:57:04,291 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:58:04,305 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 13:59:04,311 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:00:04,312 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:01:04,335 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:02:04,341 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:02:14,355 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:03:14,352 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:04:14,369 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:05:14,375 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:06:14,384 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:07:14,392 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:08:14,397 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:09:14,411 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:10:14,424 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:11:14,434 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:12:14,423 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:13:14,441 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:14:14,448 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:15:14,455 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:16:14,463 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:17:14,466 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:17:24,481 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:18:24,485 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:19:24,499 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:20:24,504 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:21:24,506 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:22:24,514 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:23:24,514 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:24:24,527 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:25:24,535 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:26:24,555 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:27:24,566 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:28:24,568 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:29:24,577 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:30:24,589 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:31:24,599 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:32:24,602 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:32:34,613 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:33:34,629 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:34:34,646 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:35:34,648 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:36:34,662 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:37:34,668 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:38:34,671 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:39:34,671 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:40:34,673 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:41:34,692 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:42:34,701 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:43:34,706 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:44:34,721 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:45:34,726 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:46:34,735 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:47:34,752 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:47:44,760 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:48:44,758 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:48:54,771 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:49:54,780 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:50:04,794 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:51:04,791 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:51:14,809 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:52:14,815 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:52:24,825 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:53:24,822 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:53:34,834 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:54:34,844 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:54:44,863 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:55:44,872 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:55:54,888 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:56:54,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:57:04,901 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:58:04,898 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:58:14,918 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 14:59:14,934 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 14:59:24,941 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:00:24,950 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:00:34,960 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:01:34,959 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:01:44,978 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:02:44,988 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:02:55,004 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:03:55,016 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:04:55,028 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:05:55,028 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:06:55,036 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:07:55,058 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:08:55,056 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:09:55,061 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:10:55,068 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:11:55,082 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:12:55,100 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:13:55,094 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:14:55,112 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:15:55,118 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:16:55,136 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:17:55,145 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:18:05,155 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:19:05,160 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:20:05,166 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:21:05,167 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:22:05,179 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:23:05,194 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:24:05,198 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:25:05,198 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:26:05,203 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:27:07,515 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:28:07,528 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:29:07,548 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:30:07,568 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:31:07,568 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:32:07,575 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:33:07,578 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:33:17,587 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:34:17,596 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:35:17,600 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:36:17,595 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:37:17,596 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:38:17,608 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:39:17,631 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:40:17,639 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:41:17,656 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:42:17,663 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:43:17,665 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:44:17,660 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:45:17,674 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:46:17,676 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:47:17,692 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:48:17,697 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:48:27,705 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 15:49:27,714 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:50:27,729 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:51:27,720 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:52:27,718 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:53:27,737 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:54:27,741 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:55:27,750 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:56:27,774 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:57:27,779 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:58:27,802 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 15:59:27,821 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:00:27,823 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:01:27,827 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:02:27,846 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:03:27,861 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:03:37,880 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 16:04:37,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:05:37,895 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:06:37,900 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:07:37,907 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:08:37,921 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:09:37,942 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:10:37,941 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:11:37,934 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:12:37,940 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:13:37,945 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:14:37,949 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:15:37,944 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:16:37,942 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:17:37,953 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:18:37,962 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:18:47,969 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 16:19:47,982 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:20:47,998 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:21:48,020 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:22:48,037 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:23:48,038 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:24:48,042 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:25:48,041 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:26:48,046 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:27:48,062 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:28:48,085 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:29:48,086 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:30:48,098 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:31:48,095 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:32:48,111 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:33:48,129 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:33:58,143 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 16:34:58,162 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:35:58,177 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:36:58,183 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:37:58,187 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:38:58,206 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:39:58,209 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:40:58,209 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:41:58,203 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:42:58,225 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:43:58,225 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:44:58,225 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:45:58,231 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:46:58,247 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:47:58,255 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:48:58,265 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:49:08,271 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 16:50:08,268 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:51:08,280 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:52:08,304 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:53:08,308 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:54:08,311 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:55:08,325 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:56:08,339 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:57:08,348 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:58:08,358 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 16:59:08,373 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:00:08,389 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:01:08,412 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:02:08,406 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:03:08,420 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:04:08,432 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:04:18,439 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:05:18,444 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:06:18,447 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:07:18,453 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:08:18,472 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:09:18,485 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:10:18,490 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:11:18,485 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:12:18,494 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:13:18,491 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:14:18,497 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:15:18,510 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:16:18,520 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:17:18,538 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:18:18,544 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:19:18,545 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:19:28,557 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:20:28,565 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:21:28,567 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:22:28,574 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:23:28,572 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:24:28,576 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:25:28,591 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:26:28,609 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:27:28,617 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:28:28,608 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:29:28,632 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:30:28,635 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:31:28,636 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:32:28,631 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:33:28,642 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:34:28,663 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:34:38,681 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:35:38,688 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:35:48,701 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:36:48,710 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:36:58,729 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:37:58,733 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:38:08,750 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:39:08,758 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:39:18,772 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:40:18,773 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:40:28,790 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:41:28,805 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:41:38,811 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:42:38,817 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:42:48,823 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:43:48,821 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:43:58,838 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:44:58,836 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:45:08,849 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:46:08,856 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:46:18,870 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:47:18,890 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:47:28,903 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:48:28,909 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:48:38,925 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:49:38,926 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:49:48,945 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 17:50:48,954 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:51:48,972 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:52:48,986 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:53:48,997 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:54:49,018 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:55:49,035 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:56:49,040 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:57:49,042 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:58:49,051 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 17:59:49,057 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:00:49,069 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:01:49,081 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:02:49,086 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:03:49,094 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:04:49,099 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:04:59,105 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 18:05:59,120 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:06:59,121 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:07:59,113 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:08:59,114 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:09:59,121 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:10:59,134 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:11:59,140 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:12:59,168 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:13:59,159 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:14:59,167 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:15:59,173 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:16:59,183 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:17:59,184 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:18:59,200 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:19:59,217 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:20:09,224 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 18:21:09,231 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:22:09,253 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:23:09,256 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:24:09,266 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:25:09,278 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:26:09,288 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:27:09,284 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:28:09,294 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:29:09,315 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:30:09,315 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:31:09,324 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:32:09,328 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:33:09,342 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:34:09,345 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:35:09,353 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:35:19,374 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 18:36:19,385 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:37:19,395 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:38:19,404 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:39:19,416 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:40:19,416 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:41:19,411 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:42:19,426 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:43:19,437 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:44:19,451 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:45:19,473 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:46:19,480 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:47:19,470 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:48:19,482 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:49:19,493 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:50:19,486 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:50:29,492 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 18:51:29,504 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:52:29,510 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:53:29,512 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:54:29,535 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:55:29,551 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:56:29,557 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:57:29,559 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:58:29,578 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 18:59:29,585 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:00:29,589 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:01:29,591 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:02:29,606 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:03:29,621 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:04:29,626 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:05:29,628 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:05:39,645 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 19:06:39,656 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:07:39,675 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:08:39,685 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:09:39,686 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:10:39,695 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:11:39,690 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:12:39,692 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:13:39,695 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:14:39,703 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:15:39,721 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:16:39,722 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:17:39,730 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:18:39,738 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:19:39,748 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:20:39,769 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:20:49,776 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 19:21:49,780 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:22:49,789 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:23:49,790 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:24:49,804 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:25:49,817 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:26:49,835 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:27:49,856 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:28:49,866 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:29:49,876 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:30:49,892 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:31:49,906 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:32:49,924 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:33:49,936 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:34:49,947 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:35:49,949 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:35:59,964 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 19:36:59,977 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:37:59,978 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:38:59,974 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:39:59,968 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:40:59,992 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:41:59,996 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:42:59,994 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:43:59,998 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:45:00,013 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:46:00,021 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:47:00,030 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:48:00,048 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:49:00,067 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:50:00,081 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:51:00,080 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:51:10,099 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 19:52:10,105 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:53:10,115 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:54:10,121 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:55:10,126 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:56:10,140 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:57:10,150 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:58:10,158 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 19:59:10,164 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:00:10,167 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:01:10,163 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:02:10,166 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:03:10,164 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:04:10,181 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:05:10,188 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:06:10,197 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:06:20,210 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 20:07:20,226 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:08:20,226 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:09:20,223 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:10:20,238 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:11:20,250 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:12:20,261 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:13:20,274 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:14:20,284 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:15:20,297 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:16:20,309 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:17:20,320 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:18:20,322 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:19:20,310 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:20:20,321 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:21:20,335 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:21:30,356 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-25 20:22:30,365 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-25 20:22:40,379 - twitch_handler.twitch_handler - ERROR - Setting emulator as active window failed
+2025-06-26 06:40:57,898 - root - INFO - Config loaded
+2025-06-26 06:41:04,775 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-26 06:41:12,938 - twitch_handler.twitch_handler - INFO - SteamListener went to check status
+2025-06-26 06:53:57,089 - root - INFO - Config loaded
+2025-06-26 06:54:04,158 - twitchio.websocket - INFO - Successfully logged onto Twitch WS: twitchplaystuff
+2025-06-26 06:54:12,122 - twitch_handler.stream_listener - INFO - SteamListener went to check status

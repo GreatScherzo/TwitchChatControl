@@ -72,6 +72,8 @@ class GameBoyAdvanceController(IGameController):
         :return:
         """
         pyautogui.press('w')
+        # with pyautogui.hold('w'):
+        #     pyautogui.sleep(1)
 
     def move_back_keyboard(self):
         """
@@ -79,6 +81,8 @@ class GameBoyAdvanceController(IGameController):
         :return:
         """
         pyautogui.press('s')
+        # with pyautogui.hold('s'):
+        #     pyautogui.sleep(1)
 
     def move_right_keyboard(self):
         """
@@ -86,6 +90,8 @@ class GameBoyAdvanceController(IGameController):
         :return:
         """
         pyautogui.press('d')
+        # with pyautogui.hold('d'):
+        #     pyautogui.sleep(1)
 
     def move_left_keyboard(self):
         """
@@ -93,6 +99,8 @@ class GameBoyAdvanceController(IGameController):
         :return:
         """
         pyautogui.press('a')
+        # with pyautogui.hold('a'):
+        #     pyautogui.sleep(1)
 
     def move_front_long_keyboard(self):
         with pyautogui.hold('w'):
