@@ -1,0 +1,7 @@
+config.xml
+venv
+.idea
+tools
+log_archives
+program.log
+__pycache__
