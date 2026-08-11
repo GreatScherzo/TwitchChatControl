@@ -4,7 +4,9 @@ import requests
 import asyncio
 from queue import Queue
 from requests.adapters import HTTPAdapter
+from requests.exceptions import ChunkedEncodingError
 from urllib3.util.retry import Retry
+import logging
 
 # Asynchronous Class that checks status of a stream if its still live
 # can be used as a coroutine (listener)
@@ -17,6 +19,9 @@ class StreamLiveChecker:
 
         # thread safe variable to pass data and flags
         self._is_live:bool = False
+
+        # get common logger
+        self._logger = logging.getLogger(__name__)
 
     # async doesnt seem to be compatible with the
     # proper property. Setter is wrapped such that is
@@ -56,7 +61,17 @@ class StreamLiveChecker:
         session.mount('http://', adapter)
         session.mount('https://', adapter)
 
-        contents = session.get('https://www.twitch.tv/' + channelName).content.decode('utf-8')
+        contents = []
+
+        # there's also this Chunked Encoding Error. just gonna do a try except here
+        try:
+            contents = session.get('https://www.twitch.tv/' + channelName).content.decode('utf-8')
+
+        except ChunkedEncodingError as e:
+            self._logger.error("ChunkedEncodingError occured. This is probably due to Twitch closing the connection")
+
+        except Exception as e:
+            self._logger.error("Unexpected error occurred when checking channel, {0}".format(e))
 
         if 'isLiveBroadcast' in contents:
             print(channelName + ' is live')

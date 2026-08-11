@@ -757,7 +757,16 @@ class BotManager:
     async def close_and_reset(self):
         # needed to be done when OBS is restarted
         self._logger.info("Atttempting to restart bot")
-        await self.bot.close()
+
+        # sometimes, the bot thinks that it itself is None, and it produces an AttributeError
+        try:
+            await self.bot.close()
+        except AttributeError as e:
+            self._logger.error("Attribute error occurred when closing."
+                               "Probably that weird Null error again where the closing timing is faster")
+        except Exception as e:
+            self._logger.error("Unexpected error occurred, {0}".format(e))
+
         self._logger.info("Bot succesfully closed")
         # welp, self.start doesnt work
         # await self.start()
